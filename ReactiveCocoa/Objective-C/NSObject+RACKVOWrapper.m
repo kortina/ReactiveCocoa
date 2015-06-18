@@ -7,7 +7,7 @@
 //
 
 #import "NSObject+RACKVOWrapper.h"
-#import "EXTRuntimeExtensions.h"
+#import "EXTRuntimeExtensionsRAC.h"
 #import "EXTScope.h"
 #import "NSObject+RACDeallocating.h"
 #import "NSString+RACKeyPathUtilities.h"
